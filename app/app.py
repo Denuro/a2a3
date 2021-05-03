@@ -8,7 +8,7 @@ api = Api(app)
 
 @app.route('/')
 def hello_world():
-    return 'Hello Univates!'
+    return 'Aplicacao Green'
 
 
 @app.after_request
